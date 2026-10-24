@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hearth</string>
+    <string name="guard_label">Hearth Home Guard</string>
+    <string name="guard_description">Opens Hearth when the Home button brings up the Amazon home screen. Only notices which app comes to the front; never reads screen content or key presses.</string>
+</resources>

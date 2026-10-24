@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp" android:height="180dp"
+    android:viewportWidth="320" android:viewportHeight="180">
+    <path android:fillColor="#D0CCC5" android:pathData="M0,0h320v180h-320z" />
+    <path android:fillColor="#00000000" android:strokeColor="#1E1D1B" android:strokeWidth="10"
+        android:pathData="M60,60 L60,120 M100,60 L100,120" />
+    <path android:fillColor="#00000000" android:strokeColor="#FF5A1F" android:strokeWidth="10"
+        android:strokeLineCap="round" android:pathData="M65,90 L95,90" />
+    <!-- "HEARTH" in blocky strokes, so it needs no font. -->
+    <path android:fillColor="#00000000" android:strokeColor="#1E1D1B" android:strokeWidth="6"
+        android:pathData="M130,72 L130,108 M150,72 L150,108 M130,90 L150,90
+            M166,72 L166,108 M166,72 L184,72 M166,90 L180,90 M166,108 L184,108
+            M196,108 L206,72 L216,108 M200,96 L212,96
+            M228,108 L228,72 L242,72 L242,90 L228,90 M236,90 L244,108
+            M254,72 L274,72 M264,72 L264,108
+            M284,72 L284,108 M302,72 L302,108 M284,90 L302,90" />
+</vector>
